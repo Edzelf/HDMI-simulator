@@ -16,8 +16,8 @@ The data communication follows the I2C protocol.  The Fuzzer has a "Arduino Pro 
 The power for the Arduino (5 volt) is available on the HDMI cable.
 
 The software for the Arduino does not use the "wire" library because"repeated start" was not supported.  Therefore 
-we use an assember program without use of any library.
+we use an assember program without any library.
 
 The sourcecode is available here.  The code is heavily commented to clarify the operation.
 
-Later on it was found that a missing mouse had also isssues when using VNC.  That was easily cured by using a USB nano mouse receiver in one of the free USB slots.
+Later on it was found that a missing mouse had also issues when using VNC.  That was easily cured by using a USB nano mouse receiver in one of the free USB slots.
