@@ -21,3 +21,7 @@ we use an assember program without any library.
 The sourcecode is available here.  The code is heavily commented to clarify the operation.
 
 Later on it was found that a missing mouse had also issues when using VNC.  That was easily cured by using a USB nano mouse receiver in one of the free USB slots.
+
+Below is a picture of the device. 
+
+![image](https://github.com/Edzelf/HDMI-simulator/assets/18257026/abb9495b-c51a-4943-9093-cb7443618646)
